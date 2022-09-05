@@ -1,0 +1,18 @@
+
+form{
+    display: block;
+    background-color: rgb(201, 201, 201);
+    width: 220px;
+    padding: 20px;
+}
+form>div{
+    width: 220px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+}
+form>div>label{
+    font-weight: 700;
+    
+}
